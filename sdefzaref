@@ -1,1 +1,0 @@
-This repository contains a Python script that determines whether a given number is even or odd. The script first checks a predefined number (num = 88) and then prompts the user to input their own number to check. It utilizes basic conditional statements (if and else) to determine the parity of the numbers and provides corresponding output messages.
